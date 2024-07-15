@@ -4,17 +4,17 @@
     "subtitle": "얼굴로 보는 눈 크기 대결하기!",
     "footerText": "&copy; 방혁준 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/LOEYt02zu/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/s2KBqMJq8/",
     "classDetails": [
         {
-            "name": "작은 눈",
+            "name": "작은눈",
             "title": "작은 눈을 가진 분",
             "explain": "작은 눈을 가진 당신! 친구들에게 눈이 작다고 매일 놀림 받기 일수였죠! 하지만 걱정 마세요. 눈이 작아도 눈이 큰 사람과 시력이나 보이는 것의 차이는 얼마 없다고 합니다. 단지 외모가 조금 차이가 날 뿐..",
             "celeb": "눈이 작은 분들을 좋아하는 취향도 있으니 안심하세요!",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "큰 눈",
+            "name": "큰눈",
             "title": "큰 눈을 가진 분",
             "explain": "당신은 아주 큰 눈을 가지고 계신 분입니다. 다른 친구들에게 왕눈이라고 칭찬 같지만 칭찬 같지않은 말을 자주 듣는 편일 겁니다. 눈이 크다는 것은 여러모로 다른 사람들에게 매력적으로 보이니 작은 것 보다는 좋을 겁니다!",
             "celeb": "그렇지만 조심하세요! 당신이 좋아하는 그 사람이 오히려 눈이 작은 사람들을 좋아할 수도 있으니까요!",
